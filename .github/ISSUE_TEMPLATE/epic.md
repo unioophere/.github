@@ -8,7 +8,13 @@ assignees: ''
 ---
 
 ## Description
-Brief summary of what this Epic is, whether it's a larger project, goal, or user story. Describe the job to be done, which persona this Epic is mainly for, or if more multiple, break it down by user and job story.
+**Scenario**: Some determinable business situation
+  **Given** some precondition
+    **And** some other precondition
+  **When** some action by the actor
+    **And** some other action
+  **Then** some testable outcome is achieved
+    **And** something else we can check happens too
 
 ## Initiative / goal
 Describe how this Epic impacts an initiative the business is working on.
