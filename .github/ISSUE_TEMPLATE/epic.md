@@ -1,6 +1,6 @@
 ---
 name: Epic
-about: A body of work that can be broken down into specific tasks (called user stories)
+about: A body of work that can be broken down into specific tasks
 title: ''
 labels: Epic
 assignees: ''
@@ -8,25 +8,44 @@ assignees: ''
 ---
 
 ## Description
-**Scenario**: Some determinable business situation
-  **Given** some precondition
-    **And** some other precondition
-  **When** some action by the actor
-    **And** some other action
-  **Then** some testable outcome is achieved
-    **And** something else we can check happens too
+Brief summary of what this Epic is, whether it's a larger project, goal, or user story. Describe the job to be done, which persona this Epic is mainly for, or if more multiple, break it down by user and job story.
 
-## Initiative / goal
-Describe how this Epic impacts an initiative the business is working on.
+## [Feature Mapping](https://github.com/unioophere/FMP-General-Information/blob/master/Behaviour_Driven_Development/Behaviour_Driven_Development.md)
 
-### Hypothesis
-What is your hypothesis on the success of this Epic? Describe how success will be measured and what leading indicators the team will have to know if success has been hit.
+- [ ] Define what actors are involved in the story
+- [ ] Break the feature into tasks to identify the main flows
+- [ ] Identify examples that illustrates a principle or variant flow. Ask questions like “But what if…”, “what else could lead to this outcome”, “what other outcomes might happen”, and use the answers to create new examples. Use rules to explain and give context to your examples. Rinse and repeat for other rules and examples
+- [ ] Create Executable Specifications(Given, When, Then): automate the main high-level flows with pending steps
+- [ ] Add these Specifications to this Epic
 
-## Acceptance criteria and must have scope
-Define what is a must-have for launch and in-scope. Keep this section fluid and dynamic until you lock-in priority during planning.
+## Wireframing
 
-## Stakeholders
-Describe who needs to be kept up-to-date about this Epic, included in discussions, or updated along the way. Stakeholders can be both in Product/Engineering, as well as other teams like Customer Success who might want to keep customers updated on the Epic project.
+- [ ] Create low-fidelity wireframes, that meet the requirements
+- [ ] Review the wireframes and decide for one solution to be prototyped
+- [ ] Add wireframe to this Epic
 
-## Timeline
-What's the timeline for this Epic, what resources are needed, and what might potentially block this from hitting the projected end date.
+## Prototyping
+
+- [ ] Create an interactive high-fidelity prototype with the final design
+- [ ] Review Prototype and check if all requirements are met
+- [ ] Add prototype to this Epic
+
+## Define Dev Tasks
+
+- [ ] Define all needed code changes/additions for Frontend, Backend, Ops
+- [ ] Define what needs to be tested
+- [ ] Define what needs to be logged
+- [ ] Add all tasks to this Epic/Create Issues connected to this Epic(Use Issue Template)
+
+## Development
+
+All tasks are tracked in their own Issues. Following checks need to be done:
+1. Implement changes
+2. Write automatic tests for the changes
+3. Add all required log messages
+
+## Documentation
+
+After this Epic is completed:
+- [ ] Combine all comments(Feature Mapping, Wireframing, Prototyping, Dev Tasks) into a markdown file
+- [ ] Save it in this repo
