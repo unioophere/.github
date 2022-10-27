@@ -1,3 +1,12 @@
+---
+name: System Requirement Issue
+about: bla
+title: ''
+labels: REQ
+assignees: ''
+
+---
+
 # System Requirement Issue
 
 name: System Requirment Issue NAME
