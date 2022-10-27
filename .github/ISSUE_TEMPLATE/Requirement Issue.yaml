@@ -1,14 +1,14 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Requirement
+description: Any requirement
+title: "[REQ]: "
+labels: ["REQ"]
 assignees:
-  - octocat
+  - teninchnail
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this requirment!
   - type: input
     id: contact
     attributes:
