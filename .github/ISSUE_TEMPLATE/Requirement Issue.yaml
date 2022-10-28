@@ -1,13 +1,4 @@
----
-name: System Requirement Issue
-about: bla
-title: '[REQ]'
-labels: ''
-assignees: ''
-
----
-
-name: Requirement
+name: Requirement Issue with YAML
 description: Any requirement
 title: "[REQ]: "
 labels: ["REQ"]
