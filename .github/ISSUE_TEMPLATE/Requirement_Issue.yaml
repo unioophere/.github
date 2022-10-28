@@ -1,5 +1,5 @@
-name: Requirement Issue with YAML
-description: Any requirement
+name: Requirement Issue
+description: Requirement Issues for the Weather Information Service
 title: "[REQ]: "
 labels: ["REQ"]
 assignees:
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this requirment!
+        Fill in your reqrirement.
   - type: input
     id: contact
     attributes:
