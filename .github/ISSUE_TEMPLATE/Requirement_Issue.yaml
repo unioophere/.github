@@ -1,7 +1,7 @@
 name: Requirement Issue with YAML 2
 description: Requirement Issues for the Weather Information Service
 title: "[REQ]: "
-labels: ""
+labels: []
 assignees:
   - teninchnail
 body:
