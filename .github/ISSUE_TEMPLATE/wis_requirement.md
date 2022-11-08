@@ -33,6 +33,7 @@ must / should / could / won´t
 ## Overall FHA Class
 
 - depending on the highest in system functions
+- [ ] make sure that the FHA class is added in the sub-requirement/function if not mentioned here.
 
 ## Linked Requirments
 
