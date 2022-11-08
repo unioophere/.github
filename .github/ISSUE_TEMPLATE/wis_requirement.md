@@ -7,31 +7,50 @@ assignees: 'teninchnail'
 ---
 
 # Requirement
-The door must always be open
+The ...
 
 ## Sub-requirements
-doors are not allowed to be locked with a key
+none
 
 ## Source of Requirement
-e.g. EASA
+2021/664 Article 12 Weather Information Service
 
 ## Differentiation
-must, should, could, will not
+must / should / could / won´t
 
 ## Compliance
-O compliant
-O partially compliant
-O not compliant
 
-## Verification by
-O Links to all user stories / features / functions / interface definitions / involved
-Linked Requirements
+- compliant
+- partially compliant
+- not compliant
+
+## Related System Functions
+
+(Put URL of issue if exists)
+- [ ] The ...
+
+
+## Overall FHA Class
+
+- depending on the highest in system functions
+
+## Linked Requirments
+
 O potentially linked requirements
 
-## Conflicts
-O no
-O yes, why --> link
+### Known Conflicts & Important Dependencies
 
+- [ ] no
+- [ ] yes
+- This requirement is in conflict with: 
+
+
+# Useful Information
+
+## AMCs
+
+
+## GM
 
 
 
