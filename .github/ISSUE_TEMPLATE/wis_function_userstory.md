@@ -39,12 +39,15 @@ Link to FHA Martice: LINK
 
 - [ ] Analysis / Inspection / Demonstration / Test 
 
+# Definition of Done
+
+- [ ] List
+
 ### Known Conflicts & Important Dependencies
 
 - [ ] no
 - [ ] yes
 - This requirement is in conflict with: 
-
 
 # Useful Information
 
