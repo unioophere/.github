@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[BUG]"
 labels: "bug \U0001F41B"
 assignees: ''
-
+projects: "19"
 ---
 
 **Describe the bug**
